@@ -1,4 +1,4 @@
-myRetail RESTFUL Service
+RESTFUL API Service
 
 Build an application that performs the following actions: 
 
